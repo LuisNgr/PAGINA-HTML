@@ -1,7 +1,19 @@
-h1 {
+body {
     text-align: center;
     background-image: url(https://i0.wp.com/revistadiners.com.co/wp-content/uploads/2013/09/portada_comunicaciones_1200x800.jpg?fit=1024%2C683&ssl=1);
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
+    
+    
+}
+h2{
+    font-size: 50px;
+}
+p{
+    font-size: 3S0px;
+    color: white;
+    font-style: italic;
+    font-style: oblique;
+    font-size: 25px;
 }
